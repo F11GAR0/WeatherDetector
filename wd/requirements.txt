@@ -1,0 +1,12 @@
+kagglehub[pandas-datasets]
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.0+cpu
+torchvision==0.17.0+cpu
+torcheval
+torchviz
+modelsummary
+matplotlib
+numpy<2.0.0
+pandas
+scikit-learn
+pytest
